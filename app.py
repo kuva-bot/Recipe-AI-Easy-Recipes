@@ -36,8 +36,8 @@ with st.sidebar:
     
     st.write('*Your cooking adventure begins with whatever ingredients you have readily available.*')
     st.caption('''**That's why I'd love for you to list the ingredients. 
-               Once we have it, we'll understand it and start exploring it.
-                Then, we'll work together to and come up with the best possible recipe, which is to prepare.  
+               Once we have it, we'll understand it and start exploring our options.
+                Then, we'll work together to and come up with the best possible recipe.  
                 Sounds fun, right?**
     ''')
 
